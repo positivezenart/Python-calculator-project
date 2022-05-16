@@ -19,7 +19,7 @@ operations = {
   "*": multiply,
   "/": divide
 }
-
+#calling function
 def calculator():
   print(logo)
 
